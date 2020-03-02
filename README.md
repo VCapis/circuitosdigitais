@@ -1,21 +1,15 @@
-**Circuitos Digitais**
+# **Circuitos Digitais**
 
--------
-<p align="center">
-    <a href="#git">Uso do Git</a> &bull;
-    <a href="#vídeos">Vídeos</a> &bull;
-    <a href="#software">Software</a> &bull;
-    <a href="#configurações">Configurações</a>&bull;
-    <a href="#bibliografia">Bibliografia</a>&bull;
-    <a href="#links">Links</a>
-</p>
+
+## Ementa
+
+> Sistemas Numéricos. Álgebra de Boole (teoremas). Portas lógicas. Circuitos combinacionais. Técnicas de
+minimização de hardware. Implementação de dispositivos elementares de memória (latchs e flip-flops). Circuitos
+Sequenciais. Implementação de módulos básicos. Ambiente de simulação.
 
 
 
-
--------
-
-## Git
+## Utilização do Git
 
 ### Instalar o git
 > <span style="color:blue">sudo apt-get install git</span>
@@ -31,9 +25,6 @@
 ### Baixar as novas atualizações do repositorio para o seu PC
 >  git pull
 
-
-
-## Software
 
 
 
