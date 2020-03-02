@@ -1,0 +1,26 @@
+UNIDADE 4
+Circuitos Sequenciais
+	Latches e FF de todos os tipos
+Máquinas de Estado
+	Tipo Moore 
+	Tipo Mealy
+
+UNIDADE 5
+Registradores
+	Série-Paralelo
+	Registrador Universal
+	CIs registradores ex: 7495, 74165
+
+UNIDADE 6
+Contadores
+	Associando FF para criar contadores, contadores em ordem crescente, decrescente
+	Contadores assincronos
+	Contadores sincronos
+	Contadores de sequencia não-natural
+	CIs contadores: 7490, 7493, 
+
+UNIDADE 7
+Memórias
+	Associação vertical
+	Associação horizontal
+	

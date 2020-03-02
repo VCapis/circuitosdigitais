@@ -1,0 +1,36 @@
+\documentclass[a4paper,10pt]{article}
+\input{/home/frr/UFSC/Pagina/Dropbox/Modelos/Modelo_prova_latex/estilo_prova.tex}
+
+\begin{document}
+
+
+\professor{Fábio Rodrigues de la Rocha}
+\turma{06655}
+\codigodisciplina{ARA7546}
+\disciplina{Circuitos Digitais}
+\data{24/03/2014}
+\hlimite{20:20}
+\listaexercicios{6}
+
+\begin{center}
+\large{\fbox{\mbox{Contadores}}}
+\end{center}
+
+
+\questao{Utilizando flip-flops J-K mostre como construir um contador crescente assíncrono de 4 bits.}
+
+\questao{Diferencie contador síncrono de contador assíncrono.}
+
+\questao{Modifique o contador da primeira questão para permitir uma contagem crescente e decrescente, baseado numa linha \texttt{MODO\_OPERACAO}.}
+
+\questao{Construa um contador síncrono de 4 bits (usando FF J-K) para contar a sequencia não natural 0, 12, 15, 2, 3, 4, 9, 14, 7, 8, 11, 5.}
+
+\questao{Utilizando associações do  CI 7490 mostre como construir um contador que conta até 17 e trava.}
+
+\begin{figure}[H]
+ \centering\includegraphics[width=0.2\textwidth]{7490}
+\end{figure}
+
+\questao{Utilizando associações do CI 7490 crie um cronômetro que conte horas, minutos e segundos. Assuma que existe disponível um clock base de 1Hz.}
+
+\end{document}

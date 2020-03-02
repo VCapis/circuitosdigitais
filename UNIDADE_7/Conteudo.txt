@@ -1,0 +1,14 @@
+<B>UNIDADE 7: Memória </B> [04 horas-aula]
+7. Memória a Semicondutor 
+   7.1. Tipos de Memórias num Computador 
+   7.2. Conceitos Básicos 
+   7.3. Memórias RAM 
+        7.3.1. Memória RAM Estática SRAM Síncrona SRAM Síncrona, Sinais na Leitura/Escrita 
+        7.3.2. Memória Dinâmica DRAM 
+   7.4. Memórias ROM 
+        7.4.1. ROM com Matriz de Diodos 
+        7.4.2. ROM programável pelo usuário - PROM 
+        7.4.3. ROM Programável e Apagável pelo Usuário, “EPROM”, EEPROM, FLASH 
+   7.5. Associando Memórias 
+
+

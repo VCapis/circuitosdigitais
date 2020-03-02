@@ -1,0 +1,19 @@
+<B>UNIDADE 2: Circuitos Combinacionais Básicos </B> [08 horas-aula]
+
+2.1 Multiplexadores 
+    2.1.1 Circuitos Integrados Multiplexadores: 74153, 74253, 74157, 74257, 74151, 74150 e 74251 
+    2.1.2 Aplicações de Multiplexadores: Geração de funções booleanas, Associação, Seletor de palavras 
+
+2.2 Demultiplexadores
+    2.2.1 Demultiplexador: Circuitos Integrado 74155. Uso como Demultiplexador. 
+
+2.3 Decodificadores
+    2.3.1 Projeto de um Decodificador de 2 para 4: Circuitos Integrados 74138, 74139 
+    2.3.2 Decodificador Decimal: Circuito Integrado 7442
+    2.3.3 Decodificador Hexadecimal: Circuito Integrado 74154 
+    2.3.4 Associação de Decodificadores 
+    2.3.5 Decodificadores para Sete Segmentos 
+
+2.4 Comparadores
+    2.4.1 Codificador: Circuito codificador com 3 saídas 74148 
+
